@@ -18,6 +18,7 @@
   <link rel="stylesheet" href="https://npmcdn.com/tachyons@4.0.5/css/tachyons.min.css"/>
 
   <link rel="stylesheet" href="/css/main.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 </head>
 
   <body class="bg-white black">
@@ -66,5 +67,15 @@
 </div>
 
   </body>
+
+  <script>  
+    $("#hide").click(function(){
+      $(".bye").hide();
+    });
+
+    $("#show").click(function(){
+      $(".bye").show();
+    });
+  </script>
 
 </html>

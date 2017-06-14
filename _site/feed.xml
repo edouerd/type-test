@@ -3,10 +3,10 @@
   <channel>
     <title>Type Test</title>
     <description>Stop writing CSS and start building prototypes.</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 Jun 2017 03:47:03 -0400</pubDate>
-    <lastBuildDate>Wed, 14 Jun 2017 03:47:03 -0400</lastBuildDate>
+    <link>http://labs.edouard.us/type-test//</link>
+    <atom:link href="http://labs.edouard.us/type-test//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 14 Jun 2017 03:51:23 -0400</pubDate>
+    <lastBuildDate>Wed, 14 Jun 2017 03:51:23 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
   </channel>

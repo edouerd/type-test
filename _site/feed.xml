@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jekyons</title>
+    <title>Type Test</title>
     <description>Stop writing CSS and start building prototypes.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 May 2017 17:14:06 -0400</pubDate>
-    <lastBuildDate>Thu, 04 May 2017 17:14:06 -0400</lastBuildDate>
+    <pubDate>Fri, 05 May 2017 11:42:34 -0400</pubDate>
+    <lastBuildDate>Fri, 05 May 2017 11:42:34 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
   </channel>
